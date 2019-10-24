@@ -64,8 +64,9 @@
 
         <!-- Label -->
         <TextView
-            android:text="@string/category_gender"
-            style="@style/CategoryStyle" />
+            android:id="@+id/mangala"
+            style="@style/CategoryStyle"
+            android:text="@string/category_gender" />
 
         <!-- Input field -->
         <LinearLayout
